@@ -65,7 +65,7 @@ Lightweight, practical ways to consume backend services on the frontend.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cayomol01\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernamecayomol01\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cayomol01\&layout=compact\&theme=tokyonight)
 
 ---
 
