@@ -6,10 +6,8 @@ Welcome to my GitHub profile! I'm a **full‑stack developer**, **API enthusiast
 
 ## 🚀 About Me
 
-* 🔭 Currently working on: **Cayo**, **API client libraries**, and **auth/security flows**
 * 🌱 Learning: deeper internals of **TypeScript**, **Node.js runtime behavior**, and **API design patterns**
 * 🧪 I enjoy writing tests that *actually* help (mocks, wrappers, integration triage—you name it)
-* ⚡ Fun fact: I refactor things even when I’m not supposed to
 
 ---
 
